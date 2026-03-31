@@ -20,3 +20,27 @@
     justify-content: space-around;
     align-items: center;
 }
+
+
+.option {
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    border: 5px rgb(95, 95, 95) solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    display: none;
+}
+
+.answer {
+    height: 100px;
+    width: 150px;
+    background-color: gray;
+    border: 5px rgb(95, 95, 95) solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
