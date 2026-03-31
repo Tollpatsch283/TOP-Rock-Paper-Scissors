@@ -1,3 +1,5 @@
+const banner = document.querySelector(".banner");
+
 const getComputerChoice = () => {
     let computerChoice = "";
     let randNum = Math.floor(Math.random() * 3);
@@ -66,4 +68,3 @@ const playGame = () => {
 
 }
 
-gamePrompt();
