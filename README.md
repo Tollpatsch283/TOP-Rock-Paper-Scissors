@@ -1,3 +1,5 @@
+#Update April 1, 2026: UI added. Game is no longer played in the console. Updated ReadMe to come.
+
 # Rock, Paper, Scissors Game
 
 ## Overview
